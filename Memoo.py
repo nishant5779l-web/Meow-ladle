@@ -30,7 +30,7 @@ warnings.filterwarnings('ignore')
 # ================================================================
 #  CONFIGURATIONS & FILE PATHS
 # ================================================================
-BOT_TOKEN = "8296992233:8879141712:AAGgKaOUtR6jABDhlp9MyoWvYr6035moap0"
+BOT_TOKEN = "8296992233:9097579292:AAHLEqlUbBPGXWvL9vmVyXA_p7PKHTrBnXo"
 ACCOUNTS_FILE = "accounts.json"
 
 MARKO_VERSION = "3.0.0-PHOENIX"
